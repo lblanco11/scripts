@@ -1,3 +1,4 @@
-ansible
-diagrams
-linux
+% mkdir linux
+% mkdir ansible
+% mkdir diagrams
+% ls
